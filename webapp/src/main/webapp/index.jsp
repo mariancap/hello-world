@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Hello SSET! </h1>
+   <h1> SSET DEMO EDIT! </h1>
 
   
 </form>
